@@ -1,0 +1,3 @@
+Sitemap: https://thecozycornerbykaquilala.vercel.app/sitemap.xml
+User-agent: *
+Disallow:

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Angeline's Cozy Corner",
-  description: "A cozy online bookstore with great recommendations",
+  description: "A cozy online bookstore with hand-picked recommendations",
 };
 
 export default function RootLayout({ children }) {

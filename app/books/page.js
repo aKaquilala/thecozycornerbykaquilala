@@ -7,17 +7,17 @@ export default function BooksPage() {
 
       <div className="grid md:grid-cols-3 gap-6">
         <div className="bg-white p-4 rounded shadow">
-          <Image src="/images/book1.jpg" alt="Book" width={300} height={400} />
+          <Image src="/images/book1.jpg" alt="Angeline's Cozy Corner Book entitled Before the Coffee Gets Cold" width={300} height={400} />
           <h3 className="mt-3 font-medium text-amber-800">Before the Coffee Gets Cold</h3>
         </div>
 
         <div className="bg-white p-4 rounded shadow">
-          <Image src="/images/book2.jpg" alt="Book" width={300} height={400} />
+          <Image src="/images/book2.jpg" alt="Angeline's Cozy Corner Book entitled Days at the Morisaki Bookshop" width={300} height={400} />
           <h3 className="mt-3 font-medium text-amber-800">Days at the Morisaki Bookshop</h3>
         </div>
 
         <div className="bg-white p-4 rounded shadow">
-          <Image src="/images/book5.jpg" alt="Book" width={300} height={400} />
+          <Image src="/images/book5.jpg" alt="Angeline's Cozy Corner Book entitled What You Are Looking for Is in the Library" width={300} height={400} />
           <h3 className="mt-3 font-medium text-amber-800">What You Are Looking for Is in the Library</h3>
         </div>
       </div>
